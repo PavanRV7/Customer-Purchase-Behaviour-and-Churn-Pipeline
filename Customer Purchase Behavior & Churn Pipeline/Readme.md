@@ -85,29 +85,6 @@ customer_churn_pipeline/
 
 ---
 
-## ✅ Recommendations
-- Launch **90–180 day win-back campaigns**  
-- Nudge first-time buyers to make a **second purchase quickly**  
-- Apply **targeted discounts by category**, not blanket promotions  
-- Build cross-sell journeys using category affinity (e.g., Mobiles → Accessories)  
-- Expand dataset with **marketing touchpoints and service data** for richer models  
-
----
-
-## 📌 Next Steps
-- Deploy pipeline to cloud (AWS/GCP) for automation  
-- Add **advanced churn models** (XGBoost, LightGBM)  
-- Integrate with real-time dashboards (Tableau/Streamlit)  
-- Track **margin impact** alongside revenue in future iterations  
-
----
-
-## 📜 Disclaimer
-This dataset is **synthetic** and created for **educational/portfolio purposes only**.  
-The methodology and insights are realistic, but not based on actual business data.
-
----
-
 ## 👤 Author
 **Pavan R V**
 B.Tech Artificial Intelligence & Data Science | Aspiring Data Analyst  
